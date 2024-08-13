@@ -66,7 +66,7 @@ module.exports = {
 
 ## Try running some of the following tasks in terminal:
 
-In the first terminal: npm run hhnode
+In the first terminal: npm run hhnode<br>
 In the next terminal: npm run deployln, npm run removetest
 
 ```shell
