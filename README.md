@@ -7,7 +7,7 @@ This project demonstrates a basic Hardhat use case. It comes with a sample contr
 ```
 module.exports = {
   solidity: {
-    compilers: [
+    compilers: [ //for several solidity versions
       {
         version: "0.5.16",
       },
@@ -18,7 +18,7 @@ module.exports = {
         version: "0.8.24",
       },
     ],
-    settings: {
+    settings: { //for *.sol file bytecode capacity
       optimizer: {
         enabled: true,
         runs: 200,
@@ -26,7 +26,7 @@ module.exports = {
     },
   },
   networks: {
-    localhost: {
+    localhost: { //for default localnet, 20 signers
       url: "http://localhost:8545",
       chainId: 31337,
     },
