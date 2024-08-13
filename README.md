@@ -40,9 +40,7 @@ module.exports = {
 };
 ```
 
-## Try running some of the following tasks:
-
-In "package.json" file:
+## In "package.json" file:
 
 ```
 "name": "hardhat-project",
@@ -66,6 +64,7 @@ In "package.json" file:
   }
 ```
 
+## Try running some of the following tasks in terminal:
 
 ```shell
 npx hardhat help
