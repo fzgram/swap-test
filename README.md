@@ -1,6 +1,6 @@
 # Hardhat config, and solidity test and deploy
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
+This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract. This may be useful.
 
 ## hardhat config in "hardhat.config.js" file:
 
