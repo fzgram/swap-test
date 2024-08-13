@@ -66,6 +66,9 @@ module.exports = {
 
 ## Try running some of the following tasks in terminal:
 
+In the first terminal: npm run hhnode
+In the next terminal: npm run deployln, npm run removetest
+
 ```shell
 npx hardhat help
 npx hardhat test
